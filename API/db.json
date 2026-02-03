@@ -53,10 +53,10 @@
   ],
   "posts": [
     {
-      "id": "1",
       "userId": 1,
-      "title": "Introducción a las API",
-      "body": "Conceptos básicos sobre APIs y su importancia."
+      "title": "Analisis de la API",
+      "body": "La API permite la comunicación entre diferentes sistemas software.",
+      "id": "1"
     },
     {
       "id": "2",
@@ -120,6 +120,12 @@
     },
     {
       "id": "eb5f",
+      "userId": 1,
+      "title": "Nuevo Título",
+      "content": "Este es el contenido de la nueva publicación."
+    },
+    {
+      "id": "5594",
       "userId": 1,
       "title": "Nuevo Título",
       "content": "Este es el contenido de la nueva publicación."
@@ -188,6 +194,11 @@
     },
     {
       "id": "f999",
+      "postId": 1,
+      "content": "Este es un nuevo comentario."
+    },
+    {
+      "id": "1335",
       "postId": 1,
       "content": "Este es un nuevo comentario."
     }
